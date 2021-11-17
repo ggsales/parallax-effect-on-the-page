@@ -1,4 +1,16 @@
- [
+{
+    "summary": [
+        {
+            "title": "Capítulo 1"
+        },
+        {
+            "title": "Capítulo 2"
+        },
+        {
+            "title": "Capítulo 3"
+        }
+    ],
+    "pages": [
         {
             "page": 1,
             "content": "<h1>T&iacute;tulo<\/h1> <p><br \/>Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Quem num gosta di mim que vai ca&ccedil;&aacute; sua turmis! Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.<\/p> <p><br \/>Mussum Ipsum, cacilds vidis litro abertis. Aenean aliquam molestie leo, vitae iaculis nisl. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per. Quem num gosta di mim que vai ca&ccedil;&aacute; sua turmis! Mauris nec dolor in eros commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl.<\/p>"
@@ -43,3 +55,4 @@
         }
     ]
     
+}
